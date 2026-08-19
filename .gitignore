@@ -1,0 +1,13 @@
+# 编译产物
+obj-*/
+
+# 测试二进制
+test/testapp
+test/testcpp
+
+# 运行 / 日志产物
+*.out
+*.log
+
+# Pin 安装包
+*.tar.gz
